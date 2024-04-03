@@ -10,7 +10,8 @@
         </div>
       </div>
       <div class="flex flex-center">
-        <lottie-web-cimo ref="lottie_web" style="width: 50%; max-width: 80%" />
+        <q-img src="statics/icons/logo.png"></q-img>
+<!--        <lottie-web-cimo ref="lottie_web" style="width: 50%; max-width: 80%" /> -->
       </div>
     </div>
     <div style="position: absolute;right: 2%;bottom: 8%;font-family:SourceHanSansCN; font-size: 16px;color: #4C5875;">—— &nbsp;&nbsp; Easy Come &nbsp; Easy Go &nbsp; &nbsp;——</div>
