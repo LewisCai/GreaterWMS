@@ -4,13 +4,13 @@
       <div class="q-mb-xl" style="color: #4C5875;text-align: center;">
         <div style="font-weight: bold;font-size: 100px;letter-spacing: 10px;">WELCOME</div>
         <div style="font-size: 22px;letter-spacing: 2px;">
-          GreaterWMS
+          Australia Headlight Solutions
           <span v-if="isEnglish">&nbsp</span>
           {{ $t('index.index_title') }}
         </div>
       </div>
       <div class="flex flex-center">
-        <q-img src="statics/icons/logo.png"></q-img>
+        <q-img src="statics/icons/logo.png" style="width: 30%; max-width: 40%"></q-img>
 <!--        <lottie-web-cimo ref="lottie_web" style="width: 50%; max-width: 80%" /> -->
       </div>
     </div>
